@@ -1,0 +1,6 @@
+RANDOM_STRING_LENGTH = 2
+
+# keeper utils
+KEEPER_PORT = 5000
+KEEPER_HOST = "127.0.0.1"
+KEEPER_METHOD = "keep_data"
